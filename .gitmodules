@@ -2,3 +2,7 @@
 	path = device-alpine/tmp/wukong-darjeeling
 	url = https://github.com/wukong-m2m/wukong-darjeeling
 	branch = release0.4
+[submodule "gateway-alpine/tmp/wukong-darjeeling"]
+	path = gateway-alpine/tmp/wukong-darjeeling
+	url = https://github.com/wukong-m2m/wukong-darjeeling
+	branch = release0.4
