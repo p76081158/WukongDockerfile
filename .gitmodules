@@ -1,0 +1,4 @@
+[submodule "wukong-darjeeling"]
+	path = wukong-darjeeling
+	url = https://github.com/wukong-m2m/wukong-darjeeling
+	branch = release0.4
